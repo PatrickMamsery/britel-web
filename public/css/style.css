@@ -448,9 +448,10 @@ h6 {
     color: #fff;
     margin-bottom: 50px;
     font-size: 20px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: 700;
     text-shadow: -1px 0 2px #2f4d5a;
+    max-width: 90%;
 }
 
 #hero .btn-get-started {
