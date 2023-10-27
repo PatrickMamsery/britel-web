@@ -16,11 +16,11 @@
                             <strong>Email:</strong> info@britel.co.tz<br>
                         </p>
                         <div class="social-links mt-3">
-                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="https://x.com/briteltanzania?s=20" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
+                            <a href="https://web.facebook.com/profile.php?id=61552927464389" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/briteltanzania/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
                             {{-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> --}}
-                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                            {{-- <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> --}}
                         </div>
                     </div>
                 </div>
